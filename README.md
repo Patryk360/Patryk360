@@ -1,16 +1,28 @@
-### Hi there 👋
+# Cześć 👋
 
-<!--
-**Patryk360/Patryk360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Zainteresowania:
+- JavaScript
+- Golang
+- C#
+- Node.js
+- HTML i CSS
+- Bootstrap
+- Baza danych RethinkDB
+- RasberryPI
+- Modelarstwo RC
+- Sporty ekstremalne, głównie szachy.
 
-Here are some ideas to get you started:
+# O mnie:
+egzystuje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projekty:
+[EdwardBot_Guilded](https://github.com/Edward-Developers/EdwardBot_Guilded) - bot guilded
+\
+[EdwardBot_LITE](https://github.com/Edward-Developers/EdwardBot_LITE) - bot discord
+
+# Projekty prywatne:
+[EdwardBot](https://botedward.tk/) - bot discord
+
+# Statystyki:
+![Takie fajne statystyki](https://github-readme-stats.vercel.app/api?username=Patryk360&show_icons=true&theme=tokyonight)
+![Też fajne statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk360&show_icons=true&theme=tokyonight)
