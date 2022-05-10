@@ -13,7 +13,7 @@
 - Sporty ekstremalne, głównie szachy.
 
 # O mnie:
-egzystuje
+Egzystuje. Nazwę ukradłem włoskiemu bankowi.
 
 # Projekty:
 [EdwardBot_Guilded](https://github.com/Edward-Developers/EdwardBot_Guilded) - bot guilded
