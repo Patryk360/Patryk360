@@ -20,7 +20,7 @@ Egzystuje. Nazwę ukradłem włoskiemu bankowi.
 \
 [EdwardBot_LITE](https://github.com/Edward-Developers/EdwardBot_LITE) - bot discord
 \
-[The Dark Side]() - gra na silniku unity
+[The Dark Side](https://github.com/Patryk360/The_Dark_Side) - gra na silniku unity
 
 # Projekty prywatne:
 [EdwardBot](https://botedward.tk/) - bot discord
