@@ -7,7 +7,7 @@
 - Node.js
 - HTML i CSS
 - Bootstrap
-- Baza danych RethinkDB
+- Baza danych RethinkDB, MongoDB
 - RasberryPI
 - Modelarstwo RC
 - Sporty ekstremalne, głównie szachy.
