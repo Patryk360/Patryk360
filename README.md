@@ -13,7 +13,9 @@
 - Sporty ekstremalne, głównie szachy.
 
 # O mnie:
-Egzystuje. Nazwę ukradłem włoskiemu bankowi.
+Egzystuję. Nazwę ukradłem włoskiemu bankowi...
+
+A tak na serio – mam na imię Patryk i od 2019 roku zajmuję się programowaniem. Programuję w językach takich jak Node.js, Java, GoLang, Python i C#. Tworzenie to moja pasja – każdy nowy projekt to dla mnie szansa na rozwój i podejmowanie nowych wyzwań.
 
 # Projekty:
 [EdwardBot_Guilded](https://github.com/Edward-Developers/EdwardBot_Guilded) - bot guilded
