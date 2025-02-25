@@ -10,7 +10,7 @@
 - Baza danych RethinkDB, MongoDB
 - RasberryPI
 - Modelarstwo RC
-- Sporty ekstremalne, głównie szachy.
+- Sporty ekstremalne 🪂, głównie szachy.
 
 # O mnie:
 Egzystuję. Nazwę ukradłem włoskiemu bankowi...
