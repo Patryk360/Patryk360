@@ -27,7 +27,7 @@ A tak na serio – mam na imię Patryk i od 2019 roku zajmuję się programowani
 [Pilot](https://github.com/Patryk360/Pilot) - aplikacja na androida do sterowania RaspberryPI Pico
 
 # Projekty prywatne:
-[EdwardBot](https://edwardbot.tech/) - bot discord
+[EdwardBot](https://beta.edwardbot.pl/) - bot discord
 
 # Statystyki:
 ![Takie fajne statystyki](https://github-readme-stats.vercel.app/api?username=Patryk360&show_icons=true&theme=tokyonight)
