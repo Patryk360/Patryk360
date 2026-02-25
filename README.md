@@ -28,5 +28,5 @@ Tak, nazwę ukradłem włoskiemu bankowi, ale kod piszę już całkowicie własn
 [EdwardBot](https://beta.edwardbot.pl/) - bot discord
 
 # Statystyki:
-![Takie fajne statystyki](https://github-readme-stats.vercel.app/api?username=Patryk360&show_icons=true&theme=tokyonight)
-![Też fajne statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk360&show_icons=true&theme=tokyonight)
+![Takie fajne statystyki](https://pixel-profile.vercel.app/api/github-stats?username=Patryk360)
+![Też fajne statystyki](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Patryk360)
